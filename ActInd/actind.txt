@@ -1,0 +1,47 @@
+actind.dll
+
+Instructions
+ Run the Activity Indicator.exe
+ Select the drive (hard disk) that you like to check
+ Place the dll inside the plugins directory of your LCD Smartie folder
+ Call the status of the drive with the following LCD Smartie line
+
+
+ $dll(actind,2,*, )      .....Please notice one space after the third comma!
+
+In the above line the start will appear when you have activity on the disk and a space placeholder when the disk is inactive.
+
+
+Functions
+---------
+Four functions available
+
+Function 1
+Returns 1 or 0 depending on disk activity
+
+Function 2
+Returns param1 or param2 depending on disk activity
+
+Function 3
+returns last change took place on hdd
+
+Function 4
+returns drive letter or empty space depending on disk activity
+
+
+
+A special function is availabel to replace the faulty backslash 
+In some LCDs the backslash is displayed with another symbol, in oreder to replace this I have embedded a custom character on the plugin. The call is as follows 
+$dll(actind,3,8,\)
+
+
+Examples
+--------
+
+$dll(actind,1,,) 
+$dll(actind,2,x,o) 
+$dll(actind,4,,)
+$dll(actind,3,,)
+
+
+Developer: Nikos Georgousis

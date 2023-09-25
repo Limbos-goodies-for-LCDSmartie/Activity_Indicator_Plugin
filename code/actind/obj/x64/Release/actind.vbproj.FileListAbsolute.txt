@@ -1,0 +1,10 @@
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\bin\x64\Release\actind.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\bin\x64\Release\actind.pdb
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\bin\x64\Release\actind.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\obj\x64\Release\actind.vbproj.AssemblyReference.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\obj\x64\Release\actind.Resources.resources
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\obj\x64\Release\actind.vbproj.GenerateResource.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\obj\x64\Release\actind.vbproj.CoreCompileInputs.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\obj\x64\Release\actind.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\obj\x64\Release\actind.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\actind\actind\actind\obj\x64\Release\actind.pdb
